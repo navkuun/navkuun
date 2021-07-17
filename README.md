@@ -18,6 +18,11 @@ I'm currently a student in London, in my spare time I program. I'm interested in
 **📙 What do you study? -** I currently study maths, physics and computer science at sixth form;<br>
 **💻 When did you start programming -** I started programming in python at 15 because I thought it was cool;<br>
 
+**My Top 3 Books :**<br>
+1. "Can't hurt me" - **David Goggins**<br>
+2. "Deep work" - **Cal Newport** <br>
+3. "Atomic habits" - **James Clear** <br>
+
 **Goals :**<br>
 -**Become a good competitive programming on <a href = "https://codeforces.com/">Codeforces</a>**<br>
 
@@ -27,8 +32,6 @@ I'm currently a student in London, in my spare time I program. I'm interested in
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
-
-
 
 ### 📈 github statistics
 <p align = "center" >
