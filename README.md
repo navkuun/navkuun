@@ -1,6 +1,8 @@
-### Glad to see you here - <a href = "https://naveedkhan.tech">Nav</a> <img src = "https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" height = "30">
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://naveedkhan.tech)
+## Glad to see you here - <a href = "https://naveedkhan.tech">Nav</a> <img src = "https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" height = "50">
+I'm currently a student in London, in my spare time I program. I'm interested in machine learning and software engineering. Other than programming I run, practice brazillian jiu jitsu and read (books & manga)
 
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://naveedkhan.tech)
+![](https://visitor-badge.glitch.me/badge?page_id=navkuun.navkuun)<br>
 **Tools and languages :**
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
@@ -17,7 +19,6 @@
 
 **Goals :**<br>
 -**Become a good competitive programming on <a href = "https://codeforces.com/">Codeforces</a>**<br>
--**Becoming a better programmer**
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
