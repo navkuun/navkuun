@@ -16,7 +16,7 @@ I'm currently a student in London, in my spare time I program. I'm interested in
 
 **Q & A :**<br>
 **📙 What do you study? -** I currently study maths, physics and computer science at sixth form;<br>
-**💻 When did you start programming -** I started programming in python at 15 because I thought it was cool;<br>
+**💻 When did you start programming -** I started programming in python at 15 because a friend recommended me to try it;<br>
 
 **My Top 3 Books :**<br>
 1. "Can't hurt me" - **David Goggins**<br>
