@@ -24,7 +24,7 @@ I'm currently a student in London, in my spare time I program. I'm interested in
 3. "Atomic habits" - **James Clear** <br>
 
 **Goals :**<br>
--**Become a good competitive programming on <a href = "https://codeforces.com/">Codeforces</a>**<br>
+-**Become a good competitive programmer on <a href = "https://codeforces.com/">Codeforces</a>**<br>
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
