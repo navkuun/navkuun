@@ -2,8 +2,9 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://naveedkhan.tech)
 
 
-
-
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 
