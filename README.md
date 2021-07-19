@@ -30,7 +30,8 @@ I'm currently a student in London, in my spare time I program. I'm interested in
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Python     23 mins         ███████████████████▒░░░░░   76.76 % 
+Markdown   6 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.93 % 
 ```
 <!--END_SECTION:waka-->
 
