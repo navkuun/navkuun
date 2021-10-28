@@ -23,7 +23,7 @@ I'm currently a student in London, in my spare time I program. I'm interested in
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 ```text
-Vue.js       1 min           ████████████████████████▒   97.27 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
