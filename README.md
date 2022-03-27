@@ -25,7 +25,7 @@ I'm currently a student in London, in my spare time I program. I'm interested in
 <!--START_SECTION:waka-->
 
 ```text
-Other    59 hrs 30 mins  ███████████████████████▒░   93.54 %
+Other    62 hrs 7 mins   ███████████████████████▒░   93.66 %
 ```
 
 <!--END_SECTION:waka-->
