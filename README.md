@@ -21,10 +21,10 @@ I'm currently a student in London, in my spare time I program. I'm interested in
 <!--START_SECTION:waka-->
 
 ```text
-Python       1 hr 11 mins    █████████████████████▓░░░   87.19 %
-Bash         7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.32 %
-Text         2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Bash         7 mins          ████████████▓░░░░░░░░░░░░   50.46 %
+Python       6 mins          ███████████▒░░░░░░░░░░░░░   45.08 %
+Text         0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 ```
 
 <!--END_SECTION:waka-->
