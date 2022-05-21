@@ -21,9 +21,11 @@ I'm currently a student in London, in my spare time I program. I'm interested in
 <!--START_SECTION:waka-->
 
 ```text
-Python       1 hr 25 mins    ██████████████████████▓░░   90.44 %
-Vue.js       8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.78 %
-JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+Python       2 hrs 20 mins   ███████████████████████▒░   93.82 %
+Vue.js       8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
