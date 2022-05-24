@@ -21,10 +21,7 @@ I'm currently a student in London, in my spare time I program. I'm interested in
 <!--START_SECTION:waka-->
 
 ```text
-Python       3 hrs 1 min     ██████████████████████▓░░   90.30 %
-Git Config   16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 %
-Text         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Other        8 hrs 2 mins    ████████████████████▒░░░░   80.71 %
 ```
 
 <!--END_SECTION:waka-->
