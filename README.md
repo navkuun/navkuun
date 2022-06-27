@@ -21,10 +21,10 @@ I'm currently a student in London, in my spare time I program. I'm interested in
 <!--START_SECTION:waka-->
 
 ```text
-Vue.js       32 mins         █████████████████████▓░░░   87.24 %
-Bash         4 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.56 %
-JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+Vue.js       1 hr 38 mins    ███████████████████████▓░   94.20 %
+Bash         4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
+JavaScript   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
