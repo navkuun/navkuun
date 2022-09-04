@@ -21,12 +21,8 @@ I'm currently a student in London, in my spare time I program. I'm interested in
 <!--START_SECTION:waka-->
 
 ```text
-Vue.js       1 hr 32 mins    ████████████████▓░░░░░░░░   66.18 %
-JavaScript   27 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.28 %
-HTML         19 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.11 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Vue.js       1 hr 32 mins    ████████████████████████▒   97.50 %
+JavaScript   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
 ```
 
 <!--END_SECTION:waka-->
