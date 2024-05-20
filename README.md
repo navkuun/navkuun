@@ -1,7 +1,5 @@
 Working on AI for business ops.
 
-![W5TmA673QfmG3zIgj3a6jg (1)](https://github.com/navkuun/navkuun/assets/63613042/342d2ee9-cdea-479d-b5ab-179867bce31e)
-
 
 ### Tools and Languages
 
