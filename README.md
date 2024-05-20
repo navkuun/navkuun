@@ -1,4 +1,4 @@
-Working on AI for business ops.
+Currently working on AI app for business ops.
 
 
 ### Tools and Languages
