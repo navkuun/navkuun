@@ -1,10 +1,9 @@
-## Glad to see you here - <a href = "https://naveedkhan.tech">Nav</a> <img src = "https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" height = "50">
-I'm currently a student in London, in my spare time I program. I'm interested in machine learning and software engineering. Other than programming I run, do bjj/wrestling and read
+Working on AI for business ops.
 
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://naveedkhan.tech)
-![](https://visitor-badge.glitch.me/badge?page_id=navkuun.navkuun) <br>
+![W5TmA673QfmG3zIgj3a6jg (1)](https://github.com/navkuun/navkuun/assets/63613042/342d2ee9-cdea-479d-b5ab-179867bce31e)
 
-**Tools and languages :**
+
+### Tools and Languages
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -16,18 +15,8 @@ I'm currently a student in London, in my spare time I program. I'm interested in
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 
-
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
-### 📈 github statistics
-<p align = "center" >
+### Stats 📈 
+<p align = "left" >
   <img   height="180em" src="https://github-readme-stats.vercel.app/api?username=navkuun&show_icons=true&theme=gotham&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navkuun&theme=gotham&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
