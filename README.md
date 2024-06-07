@@ -1,9 +1,6 @@
 # Navigator ⛰️💻
 Currently working on an AI app for business ops.
 
-![image](https://github.com/navkuun/navkuun/assets/63613042/92170bec-f44a-4ced-9fb2-4986063260d6)
-
-
 #### Tools and Languages
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
@@ -25,7 +22,5 @@ Currently working on an AI app for business ops.
 
   </div>
 
-
-
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/navkuun/navkuun/assets/63613042/92170bec-f44a-4ced-9fb2-4986063260d6');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/navkuun/navkuun/assets/63613042/13fc1270-d8a3-498f-83e2-35f232e00b6d');]{x0000}$}
